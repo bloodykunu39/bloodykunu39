@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=180&section=header&text=Karan%20Singh&fontColor=ffffff&fontSize=48&fontAlignY=35&desc=ML%20%C2%B7%20LLM%20Systems%20%C2%B7%20IISc%20Bangalore&descAlignY=58&descSize=18" width="100%"/>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Entity+resolution+at+11.7M+records;Turning+ECG+signals+into+images+for+CNNs;Always+shipping+something+new;I+wake;I+think;I+code;I+sleep;Cycle+continues..." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Entity+resolution+at+11.7M+records;Turning+ECG+signals+into+images+for+CNNs;Always+shipping+something+new;I+wake;I+think;I+code;I+sleep;The+cycle+continues..." alt="Typing SVG" />
 </p>
 
 ## 👋 About Me
